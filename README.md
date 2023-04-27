@@ -24,4 +24,4 @@ My Codewars:
 <img src="https://img.shields.io/badge/Unity-black?style=for-the-badge&logo=unity&logoColor=#FFFFFF"/>
 
 # Stats
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=UnityMark&show_icons=true&theme=dark) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=UnityMark&layout=compact)](https://github.com/UnityMark/github-readme-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=UnityMark&show_icons=true&theme=dark)
