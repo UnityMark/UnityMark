@@ -8,7 +8,7 @@
 + 430games
 + Gamework Studio
 
-My Codewars:
+
 ![alt text](https://www.codewars.com/users/sadmarkus/badges/small) 
 
 # Language
