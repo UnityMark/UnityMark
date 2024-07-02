@@ -11,6 +11,9 @@
 
 ![alt text](https://www.codewars.com/users/sadmarkus/badges/small) 
 
+[![UNITY JUNIOR](https://images.credly.com/size/340x340/images/03d1c2f6-6182-49bd-b5af-2ef6d28b5383/image.png)](https://www.credly.com/badges/15c9bf5d-4dac-4cdf-9ce9-bc50ee1b493a/linked_in_profile)
+
+
 # Language
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
 
@@ -26,4 +29,3 @@
 # Stats
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=UnityMark&show_icons=true&theme=dark)
 
-[![UNITY JUNIOR](https://images.credly.com/size/340x340/images/03d1c2f6-6182-49bd-b5af-2ef6d28b5383/image.png)](https://www.credly.com/badges/15c9bf5d-4dac-4cdf-9ce9-bc50ee1b493a/linked_in_profile)
