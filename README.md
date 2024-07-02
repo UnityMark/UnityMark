@@ -25,3 +25,5 @@
 
 # Stats
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=UnityMark&show_icons=true&theme=dark)
+
+[![Sonny and Mariel high fiving.](https://content.codecademy.com/courses/learn-cpp/community-challenge/highfive.gif)](https://www.credly.com/badges/15c9bf5d-4dac-4cdf-9ce9-bc50ee1b493a/linked_in_profile)
