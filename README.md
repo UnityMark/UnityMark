@@ -4,10 +4,6 @@
 </div>
 :space_invader: I'm learning C#, Unity.
 
-:cherry_blossom: I work for 2 companies:
-+ 430games
-+ Gamework Studio
-
 
 ![alt text](https://www.codewars.com/users/sadmarkus/badges/small) 
 
