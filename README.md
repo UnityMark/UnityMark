@@ -7,7 +7,9 @@
 
 ![alt text](https://www.codewars.com/users/sadmarkus/badges/small) 
 
-[![UNITY JUNIOR](https://images.credly.com/size/110x110/images/03d1c2f6-6182-49bd-b5af-2ef6d28b5383/image.png)](https://www.credly.com/badges/15c9bf5d-4dac-4cdf-9ce9-bc50ee1b493a/linked_in_profile)
+<a href="https://www.credly.com/badges/15c9bf5d-4dac-4cdf-9ce9-bc50ee1b493a/linked_in_profile">
+  <img src="https://images.credly.com/size/340x340/images/a7bea4b9-3704-4905-8681-aeaf64efd2f1/blob" width="120"/>
+</a>
 
 
 # Language
