@@ -1,17 +1,11 @@
 <div id="header" align="center">
   <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExNDNhMzJ0cGV4a2twcWUyYWVienozcnUyc21ibDRob3hrMm43ZXc4eiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/SGmjf2f96aVPRxyBKt/giphy.gif" width="180"/>
-  
-# Hello, I'm Mark
-</div>
-:space_invader: I'm a Unity Developer focused on building scalable and maintainable game systems.<br><br>Currently:<br>- Working on gameplay systems and mechanics in Unity<br>- Learning networking and multiplayer architecture<br>- Improving software architecture and clean code practices<br>- Building projects with C# and .NET<br><br>Tech Stack:<br>- Unity<br>- C#<br>- .NET<br>- Multiplayer / Networking<br>- Game Architecture<br>- Design Patterns<br>- SQL<br>- Steamworks<br>- DOTween<br>- Odin Inspector<br><br>Projects & Interests:<br>- Game Development<br>- Multiplayer Systems<br>- Architecture<br>- Performance Optimization<br>- Steam API integration and custom tools
-
 
 ![alt text](https://www.codewars.com/users/sadmarkus/badges/small) 
 
-<a href="https://www.credly.com/badges/15c9bf5d-4dac-4cdf-9ce9-bc50ee1b493a/linked_in_profile">
-  <img src="https://images.credly.com/size/340x340/images/a7bea4b9-3704-4905-8681-aeaf64efd2f1/blob" width="120"/>
-</a>
-
+# Hello, I'm Mark
+</div>
+:space_invader: I'm a Unity Developer focused on building scalable and maintainable game systems.<br><br>Currently:<br>- Working on gameplay systems and mechanics in Unity<br>- Learning networking and multiplayer architecture<br>- Improving software architecture and clean code practices<br>- Building projects with C# and .NET<br><br>Tech Stack:<br>- Unity<br>- C#<br>- .NET<br>- Multiplayer / Networking<br>- Game Architecture<br>- Design Patterns<br>- SQL<br>- Steamworks<br>- DOTween<br>- Odin Inspector<br><br>Projects & Interests:<br>- Game Development<br>- Multiplayer Systems<br>- Architecture<br>- Performance Optimization<br>- Steam API integration and custom tools
 
 # Main Stack
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white)
@@ -24,21 +18,21 @@
 
 # Previous Experience
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-![Eclipse](https://shields.io)
-![IntelliJ IDEA](https://shields.io)
+![Eclipse](https://img.shields.io/badge/Eclipse-2C2255.svg?style=for-the-badge&logo=eclipseide&logoColor=white)
+![intellij IDEA](https://img.shields.io/badge/Intellij--IDEA-000000.svg?style=for-the-badge&logo=intellijidea&logoColor=white)
 
-![Lua](https://shields.io)
-![Roblox Studio](https://shields.io)
-![Tabletop Simulator](https://shields.io)
+![LUA](https://img.shields.io/badge/LUA-000080.svg?style=for-the-badge&logo=luau&logoColor=white)
+![Roblox Studio](https://img.shields.io/badge/Roblox--Studio-00A2FF.svg?style=for-the-badge&logo=robloxstudio&logoColor=white)
+![Tabletop Simulator](https://img.shields.io/badge/Tabletop--Simulator-00A2FF.svg?style=for-the-badge&logoColor=white)
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![PyCharm](https://shields.io)
+![PyCharm](https://img.shields.io/badge/pycharm-000000?style=for-the-badge&logo=pycharm&logoColor=ffdd54)
 ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
 ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
 
 ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)
-![Arduino IDE](https://shields.io)
+![Arduino IDE](https://img.shields.io/badge/-Arduino--IDE-00979D?style=for-the-badge&logo=Arduino&logoColor=white)
 
 ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
 ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) 
@@ -49,10 +43,10 @@
 
 ## Familiar With
 ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white)
-![Blender](https://shields.io)
-![Accurate Rigging](https://shields.io)
-![Character Creator 4](https://shields.io)
-![Aseprite](https://shields.io)
+![Blender](https://img.shields.io/badge/Blender-E87D0D.svg?style=for-the-badge&logo=blender&logoColor=white)
+![Accurate Rigging](https://img.shields.io/badge/Accurate--Rigging-6DB33F.svg?style=for-the-badge&logoColor=white)
+![Character Creator 4](https://img.shields.io/badge/Character--Creator--4-6DB33F.svg?style=for-the-badge&logoColor=white)
+![Aseprite](https://img.shields.io/badge/aseprite-7D929E2.svg?style=for-the-badge&logo=aseprite&logoColor=white)
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
