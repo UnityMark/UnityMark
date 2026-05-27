@@ -5,7 +5,13 @@
 
 # Hello, I'm Mark
 </div>
-:space_invader: I'm a Unity Developer focused on building scalable and maintainable game systems.<br><br>Currently:<br>- Working on gameplay systems and mechanics in Unity<br>- Learning networking and multiplayer architecture<br>- Improving software architecture and clean code practices<br>- Building projects with C# and .NET<br><br>Tech Stack:<br>- Unity<br>- C#<br>- .NET<br>- Multiplayer / Networking<br>- Game Architecture<br>- Design Patterns<br>- SQL<br>- Steamworks<br>- DOTween<br>- Odin Inspector<br><br>Projects & Interests:<br>- Game Development<br>- Multiplayer Systems<br>- Architecture<br>- Performance Optimization<br>- Steam API integration and custom tools
+:space_invader: I'm a Unity Developer.
+
+### Skills
+* **Core:** Unity, C#, .NET
+* **Architecture:** Game Architecture, Design Patterns
+* **Multiplayer:** Network for gameobject, Facepunch
+* **Plugins & Tools:** DOTween, Odin Inspector, EasySave
 
 # Main Stack
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white)
