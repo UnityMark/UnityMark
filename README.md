@@ -1,6 +1,7 @@
-# Hello, I'm Mark
 <div id="header" align="center">
   <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExNDNhMzJ0cGV4a2twcWUyYWVienozcnUyc21ibDRob3hrMm43ZXc4eiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/SGmjf2f96aVPRxyBKt/giphy.gif" width="180"/>
+  
+# Hello, I'm Mark
 </div>
 :space_invader: I'm a Unity Developer focused on building scalable and maintainable game systems.<br><br>Currently:<br>- Working on gameplay systems and mechanics in Unity<br>- Learning networking and multiplayer architecture<br>- Improving software architecture and clean code practices<br>- Building projects with C# and .NET<br><br>Tech Stack:<br>- Unity<br>- C#<br>- .NET<br>- Multiplayer / Networking<br>- Game Architecture<br>- Design Patterns<br>- SQL<br>- Steamworks<br>- DOTween<br>- Odin Inspector<br><br>Projects & Interests:<br>- Game Development<br>- Multiplayer Systems<br>- Architecture<br>- Performance Optimization<br>- Steam API integration and custom tools
 
